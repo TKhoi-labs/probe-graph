@@ -1,2 +1,9 @@
-{ "name": "probe-graph", "version": "1.0.0", "private": true,
-  "dependencies": { "lodash": "4.17.21" } }
+{
+  "name": "probe-graph",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "lodash": "4.17.21",
+    "escape-string-regexp": "5.0.0"
+  }
+}
